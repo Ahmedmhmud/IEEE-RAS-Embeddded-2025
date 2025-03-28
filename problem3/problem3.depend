@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1743189098 source:c:\users\dell\desktop\task2_embedded\problem3\main.c
+	<stdio.h>
+	<stdlib.h>
+
