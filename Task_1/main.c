@@ -99,7 +99,7 @@ int main()
     }*/
 
                                                         //problem 7
-    /*int input,arr[20],sum = 0;
+    int input,arr[20],sum = 0;
     do
     {
         printf("Enter a positive integer: ");
@@ -116,7 +116,7 @@ int main()
     if(isPrime(sum))
         printf("The sum of digits (%d) is a prime number.", sum);
     else
-        printf("The sum of digits (%d) is not a prime number.", sum);*/
+        printf("The sum of digits (%d) is not a prime number.", sum);
 
                                                         //problem 8
     /*int input,sum=0;
@@ -140,11 +140,11 @@ int main()
 }
 
 //function for problem 7
-/*int isPrime(int a)
+int isPrime(int a)
 {
     for(int i = 2; i < a; i++){
         if(a%i == 0)
             return 0;
     }
     return 1;
-}*/
+}

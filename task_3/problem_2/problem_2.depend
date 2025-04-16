@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1744833002 source:c:\users\dell\desktop\ieee-ras-embeddded-2025\task_3\problem_2\main.c
+	<stdio.h>
+	<stdlib.h>
+
